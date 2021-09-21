@@ -1,5 +1,2 @@
 <?php
-
-echo "Hello World";
-
-?>
+echo "please work"
